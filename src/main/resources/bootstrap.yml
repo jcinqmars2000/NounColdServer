@@ -1,0 +1,9 @@
+---
+spring:
+  application:
+    name: NounColdServer
+  cloud:
+    config: 
+      uri: http://config.responsible-nrg.com
+  profiles:
+    active: cold-noun   
