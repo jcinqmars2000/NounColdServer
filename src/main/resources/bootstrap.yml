@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: NounColdServer
+    name: NounServer
   cloud:
     config: 
       uri: http://config.responsible-nrg.com
